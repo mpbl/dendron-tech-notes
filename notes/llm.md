@@ -2,7 +2,7 @@
 id: 67sop5tguaktyd2gp88fx5i
 title: LLM
 desc: ''
-updated: 1730206416543
+updated: 1730272553667
 created: 1729595367534
 ---
 
@@ -136,3 +136,4 @@ discounted probability with a lower-order continuation probability.
 - **Word Similarity**
 - **Word Relatedness** (psychology : association)
 - **Semantic field** / **topic models**
+- **Semantic frames and roles**
